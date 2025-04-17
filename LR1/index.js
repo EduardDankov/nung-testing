@@ -1,0 +1,1 @@
+console.log('Automated testing - LR1 by Eduard Dankov')
